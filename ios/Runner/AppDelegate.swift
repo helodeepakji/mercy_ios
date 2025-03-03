@@ -11,7 +11,5 @@ import Flutter
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
 
-  override var supportedInterfaceOrientationsFor window: UIWindow? -> UIInterfaceOrientationMask {
-    return [.portrait, .landscapeLeft, .landscapeRight]
-  }
+
 }
