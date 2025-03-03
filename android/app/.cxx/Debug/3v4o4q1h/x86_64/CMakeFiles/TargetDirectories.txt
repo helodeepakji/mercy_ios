@@ -1,0 +1,2 @@
+/Users/pankajgupta/Downloads/MercyTV_OTT-main/android/app/.cxx/Debug/3v4o4q1h/x86_64/CMakeFiles/edit_cache.dir
+/Users/pankajgupta/Downloads/MercyTV_OTT-main/android/app/.cxx/Debug/3v4o4q1h/x86_64/CMakeFiles/rebuild_cache.dir
